@@ -36,7 +36,7 @@ Instead of sorting again, we:
    - pick the smallest value
    - push into result
 
-3. Move the pointer of the selected value
+3. at the selected value,  Move the pointer to next index 
 
 4. Repeat until all arrays are exhausted
 
