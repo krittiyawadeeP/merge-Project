@@ -41,5 +41,5 @@ Instead of sorting again, we:
 4. Repeat until all arrays are exhausted
 
 ---
-
-## 📊 Diagram
+## 📝 flowchart
+<img width="1354" height="2093" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/a3bcf08c-0a05-4a80-8859-24077d6e11b7" />
